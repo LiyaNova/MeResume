@@ -1,2 +1,2 @@
 # MeResume
-HTML project
+The 1990s style resume website based on HTML
